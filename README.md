@@ -4,9 +4,9 @@
 
 ## Current Projects
 - Utilizing a Raspberry Pi as algo trading server 
--- Tech stack: Python, SQLite, general UNIX administration
+  - Tech stack: Python, SQLite, general UNIX administration
 - The 'I hate paying for webhosting so I'm making a blog in NextJS' project
--- Hosted on Vercel or Netlify
+  - Hosted on Vercel or Netlify
 - Making a 2D in 3D Game
--- Think Doom Wolfenstein, etc type graphics and gameplay.
--- Tech stack: Unity, Aesprite
+  - Think Doom Wolfenstein, etc type graphics and gameplay.
+  - Tech stack: Unity, Aesprite
