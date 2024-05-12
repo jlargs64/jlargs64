@@ -1,4 +1,4 @@
 # 👋 Hi, I’m @jlargs64
-- I'm a Software Developer @ IBM Z
-- I like to make full stack applications using node.js and react! 
-- VSCode is my favorite IDE, so I constantly make extensions for it to improve the experience for myself and others!
+- I'm a Technical Architect @ IBM Consulting
+- I like to learn about new things, right now I'm learning how to built data intenstive generative AI applications that augment digital workers.
+
