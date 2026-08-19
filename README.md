@@ -1,27 +1,19 @@
 # Justin Largo
-**Systems Architect | Patent Holder | AI Infrastructure Specialist**
 
-Architecting the intersection of enterprise-grade reliability (**z/OS**) and high-performance hardware acceleration for intelligent systems.
+Software engineer at IBM. I work on agentic AI for IBM Z and z/OS — installing it, breaking it, and figuring out where it actually helps.
 
----
+Two things I care about:
 
-### 🚀 Core Expertise
-* **Hardware-Accelerated AI:** Expert implementation and administration of AI/ML solutions on **MLz**, **WXA4Z**, and **Spyre** hardware acceleration within the IBM Z ecosystem.
-* **Distributed Systems:** Designing scalable, high-concurrency infrastructure utilizing **Go** and **Python**.
-* **Intellectual Property:** Patent holder driving innovation from conceptual architecture to protected technical implementation.
-* **Technical Leadership:** Champion of **Innersource** methodologies and technical mentorship, driving cross-functional engineering excellence.
+- **Don't let AI rot your skills.** Learn the fundamentals the hard way. AI is great once you've got the taste to tell whether its output is any good. Skip that and you're just shipping code you don't understand.
+- **Stop reinventing the wheel.** Now that anyone can generate software, everyone does — usually the same thing, five times over. I push teams to reuse and contribute instead of rebuild.
 
-### 🛠️ Technical Moat
-* **Systems:** z/OS, IBM Z, and a mix of random homelab servers.
-* **Acceleration:** MLz, WXA4Z, Spyre.
-* **Languages:** Go, Python, Java.
-* **Domains:** AI/ML Orchestration, Distributed Systems, Enterprise QA Automation, and Clean Code.
+**Stack:** Linux, z/OS, IBM Z, OpenShift, Cloud Pak for Data, Go, Python, Java. Building agents, skills, and MCP tooling.
 
-### 📜 Proof of Innovation
-* **Patents:** [View my Patents on Google Patents](https://patents.google.com/?inventor=Justin+Paul+Largo)
-* **Technical Writing:** [zPET Blog](https://community.ibm.com/community/user/blogs/justin-largo1)
+I also give talks — anywhere from a handful of people to 500+ — and write about all this:
 
----
+- [Personal blog](https://justinlargo.com/)
+- [zPET blog](https://community.ibm.com/community/user/blogs/justin-largo1)
 
-### 🌐 Connect
-[🌐 Personal Website](https://justinlargo.com/) | [💼 LinkedIn](https://www.linkedin.com/in/justin-largo/) | [🐦 X/Twitter](https://x.com/justinlarg0)
+Named inventor on a few IBM invention disclosures.
+
+[Website](https://justinlargo.com/) · [LinkedIn](https://www.linkedin.com/in/justin-largo/) · [X](https://x.com/justinlarg0)
