@@ -8,7 +8,7 @@ Software engineer at IBM · agentic AI for IBM Z and z/OS · Raleigh, NC
 
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-1f2328?style=flat&logo=llamadotcpp&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1f2328?style=flat&logo=langchain&logoColor=white) ![watsonx](https://img.shields.io/badge/watsonx-1f2328?style=flat&logo=watsonx&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1f2328?style=flat&logo=mcp&logoColor=white)
 
-**Currently:** z Platform Evaluation Team — installing IBM's z/OS AI products, running them hard, and fixing what breaks before customers see it.
+**Currently:** z Platform Evaluation Team (zPET) — installing IBM's z/OS AI products, running them hard, and fixing what breaks before customers see it.
 
 **Home lab:** two-node inference cluster — ~9 quantized GGUF models across an AMD GPU and NPU, llama.cpp behind litellm, all Ansible.
 
@@ -23,9 +23,6 @@ Software engineer at IBM · agentic AI for IBM Z and z/OS · Raleigh, NC
 | [salient](https://github.com/jlargs64/salient) | deterministic structural evidence for code review — tree-sitter diffs, a per-repo ratchet, one static Go binary |
 | [mvs-install-playbooks](https://github.com/jlargs64/mvs-install-playbooks) | MVS 3.8 on a Raspberry Pi, via Ansible |
 | [dotfiles](https://github.com/jlargs64/dotfiles) | my config, managed with chezmoi |
-
-[![stats](https://github-readme-stats.vercel.app/api?username=jlargs64&show_icons=true&hide_border=true&theme=transparent)](https://github.com/jlargs64)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlargs64&layout=compact&hide_border=true&theme=transparent)](https://github.com/jlargs64)
 
 [Website](https://justinlargo.com) · [LinkedIn](https://www.linkedin.com/in/justin-largo) · [X](https://x.com/justinlarg0)
 
