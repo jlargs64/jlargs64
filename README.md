@@ -20,7 +20,9 @@ Software engineer at IBM · agentic AI for IBM Z and z/OS · Raleigh, NC
 
 | Repo | What it is |
 | --- | --- |
-| [salient](https://github.com/jlargs64/salient) | deterministic structural evidence for code review — tree-sitter diffs, a per-repo ratchet, one static Go binary |
+| [motions-of-the-dead](https://github.com/jlargs64/motions-of-the-dead) | learn Vim by fighting off a horde of zombies — every input is a normal-mode motion; TypeScript, Canvas 2D, zero runtime dependencies |
+| [macarchy](https://github.com/jlargs64/macarchy) | an Omarchy-style desktop for macOS — one command themes Ghostty, Zellij, Neovim and SketchyBar together, yabai tiling over native Spaces, SIP left on |
+| [attention-firewall](https://github.com/jlargs64/attention-firewall) | pull-based, local-first workload tracker — a hard-capped active column so "when can you take this?" gets a date instead of a yes |
 | [mvs-install-playbooks](https://github.com/jlargs64/mvs-install-playbooks) | MVS 3.8 on a Raspberry Pi, via Ansible |
 | [dotfiles](https://github.com/jlargs64/dotfiles) | my config, managed with chezmoi |
 
